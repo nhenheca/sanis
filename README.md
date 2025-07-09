@@ -1,2 +1,2 @@
-# SANIS ( STALKER Anomaly Nhenhecas Imersive Search )
+# SANIS ( STALKER Anomaly Nhenhecas Immersive Search )
 Adds EFT/Imersive search to STALKER Anomaly
